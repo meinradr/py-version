@@ -1,6 +1,6 @@
 from pytest import raises
 
-from version import Version, VersionError
+from version_semantic import Version, VersionError
 
 
 def test_section_2():

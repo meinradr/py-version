@@ -1,7 +1,9 @@
+fork of [https://github.com/keleshev/version](https://github.com/keleshev/version)
+
 Semantic version implementation
 ============================================================
 
-    pip install version==0.1.2
+    pip install version-semantic==0.1.3
 
 `Version` implements version object as described in
 [Semantic Versioning spec 2.0.0-rc.1](http://semver.org).
@@ -11,7 +13,7 @@ Example of simple X.Y.Z version:
 
 ```python
 
->>> from version import Version
+>>> from version_semantic import Version
 
 >>> v = Version('1.2.3')
 

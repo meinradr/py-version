@@ -1,19 +1,19 @@
-"""`version` lives on `GitHub <http://github.com/halst/version/>`_."""
+"""`version-semantic` lives on `GitHub <https://github.com/meinradr/version-semantic>`_."""
 from setuptools import setup
 
-from version import __version__
+from version_semantic import __version__
 
 
 setup(
-    name='version',
+    name='version-semantic',
     version=__version__,
-    author='Vladimir Keleshev',
-    author_email='vladimir@keleshev.com',
+    author='Meinrad Ruckstuhl',
+    author_email='code_copyright@ruckme.ch',
     description='Implementation of semantic version',
     license='MIT',
     keywords='semver semantic version versioning versions',
-    url='http://github.com/halst/version',
-    py_modules=['version'],
+    url='https://github.com/meinradr/version-semantic',
+    py_modules=['version_semantic'],
     long_description=__doc__,
     classifiers=[
         'Development Status :: 3 - Alpha',
