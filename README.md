@@ -1,4 +1,7 @@
-fork of [https://github.com/keleshev/version](https://github.com/keleshev/version)
+[![PyPI](https://img.shields.io/pypi/v/version-semantic)](https://pypi.org/project/version-semantic/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/version-semantic)](https://pypi.org/project/version-semantic/)
+[![GitHub](https://img.shields.io/github/license/meinradr/version-semantic)](https://github.com/meinradr/version-semantic/blob/master/LICENSE-MIT)  
+
 
 Semantic version implementation
 ============================================================
@@ -88,3 +91,5 @@ and thus can be sorted:
 1.0.0+0.3.7
 
 ```
+Note: this is a fork of [https://github.com/keleshev/version](https://github.com/keleshev/version)
+
